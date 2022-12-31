@@ -1,0 +1,8 @@
+STORE "Luas"
+STORE "phi" = 3.14
+STORE "keliling"
+
+STORE "Luas" = "phi" * "radius"
+STORE "Keliling" = 2 * "phi"
+
+WRITE (Luas, Keliling)
